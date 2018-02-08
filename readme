@@ -1,0 +1,2 @@
+clang -lstdc++ -fcilkplus sample.cpp
+clang -fcilkplus sample.c 
